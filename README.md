@@ -12,4 +12,4 @@ ey que pasa chavales ola
 
 >ola internautas
 
-`int suma=1;`
+```java int suma=1;```
