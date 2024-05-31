@@ -12,10 +12,4 @@ ey que pasa chavales ola
 
 >ola internautas
 
-
-```java
-System.out.println("ola");
-int num1=1;
-int num2=2;
-int suma=num1+num2;
-System.out.println(suma);
+`int suma=1;`
